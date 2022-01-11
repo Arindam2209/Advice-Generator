@@ -1,13 +1,13 @@
 # Advice-Generator
 This is a react app that provides random Advice and Quotes for you. I have used React on the front end and made requests to Advice Slip JSON API.
 
-Tech Stack:
+# Tech Stack:
 1. React.js
 2. Javascript
 3. HTML
 4. CSS
 
-Setup:
+# Setup:
 - run ```npm i && npm start```
 
 # DEMO:
