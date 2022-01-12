@@ -1,4 +1,5 @@
 # Advice-Generator
+
 This is a react app that provides random Advice and Quotes for you. I have used React on the front end and made requests to Advice Slip JSON API.
 
 # Tech Stack:
